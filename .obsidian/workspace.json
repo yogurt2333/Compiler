@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e30ecd0053d93b45",
+        "id": "44ba63a94388fb1a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c18dd85816c3e8",
+            "id": "4ca285aea0fde6bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-04 0157 - DeepSeek 1"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,13 +182,23 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "cd13bb979c504b31",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 585.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +210,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
-      "claudian:Open Claudian": false
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c18dd85816c3e8",
+  "active": "4ca285aea0fde6bd",
   "lastOpenFiles": [
-    "生肉/对话/2026-05-04 0157 - DeepSeek.md",
+    "未命名.base",
     "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
+    "生肉/对话/2026-05-04 0157 - DeepSeek.md",
     "生肉/对话/2026-05-04 0156 - DeepSeek.md",
     "生肉/对话/2026-05-01 1934 - DeepSeek.md",
     "生肉/对话/2026-04-30 0329 - DeepSeek.md",
@@ -236,7 +244,6 @@
     "生肉/对话/2026-04-29T194703+0800 - DeepSeek.md",
     "生肉/对话/2026-04-29T193653+0800 - DeepSeek.md",
     "生肉/对话/DeepSeek.md",
-    "生肉/DeepSeek.md",
     "Clippings",
     "生肉/对话",
     "熟肉/未命名 3",
@@ -245,7 +252,6 @@
     "熟肉/实体",
     "未命名",
     "熟肉/概念",
-    "熟肉/摘要",
-    "熟肉"
+    "熟肉/摘要"
   ]
 }
