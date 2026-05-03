@@ -15,12 +15,19 @@ created: 2026-04-29
 - 丰富的插件生态（Claudian、Local Images Plus、Web Clipper 等）
 - 通过 CLAUDE.md 与 AI 助手协作管理知识库
 
+## 同步方案
+
+- [[Obsidian Git 插件]]：社区插件，自动定时 commit/push 到 GitHub
+- OSS + Remotely Save：阿里云 OSS 双向同步，适合全自动场景
+
 ## 推荐插件
 - **Claudian**：与 Claude 集成的 AI 助手插件
 - **Local Images Plus**：本地图片管理
 - **Web Clipper**：浏览器网页一键保存
+- **Obsidian Git**：Git 自动同步
 
 ## 相关概念
 - [[LLM Wiki]]
 - [[Web Clipper]]
 - [[CLAUDE.md]]
+- [[AI 记忆中枢]]
