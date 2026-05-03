@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777490529338-bomvv49ao",
+  "providerId": "claude",
+  "title": "你好，请简单介绍一下你自己",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777490529340,
+  "updatedAt": 1777490724240,
+  "lastResponseAt": 1777490691364,
+  "sessionId": "933c76ed-938d-41b3-8928-e736c4ec20a1",
+  "providerState": {
+    "providerSessionId": "933c76ed-938d-41b3-8928-e736c4ec20a1"
+  },
+  "currentNote": "熟肉/实体/Obsidian.md",
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 289,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20224,
+    "contextWindow": 200000,
+    "contextTokens": 20513,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

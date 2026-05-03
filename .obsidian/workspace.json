@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "bfc47154bbe2c9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30ecd0053d93b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c18dd85816c3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-04 0157 - DeepSeek 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1719d4a068d35952",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc0039990efdb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3216d146d5cc2884",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4e264e1d3a57660b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "edea67d6966de805",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d792d5301fb032e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba26afcf598be21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6499339a7bd1d98e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "熟肉/实体/Andrej Karpathy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Andrej Karpathy 的反向链接列表"
+            }
+          },
+          {
+            "id": "a983c1f770694db7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "生肉/对话/2026-04-29 1954 - DeepSeek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-04-29 1954 - DeepSeek 的出链列表"
+            }
+          },
+          {
+            "id": "31883d1164f90d67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a2e08ab2b220a0d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f66638c7766e3342",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "熟肉/实体/Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian 的大纲"
+            }
+          },
+          {
+            "id": "c16e2fa7b7b72be8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "熟肉/实体/Andrej Karpathy.md"
+              },
+              "icon": "lucide-info",
+              "title": "Andrej Karpathy的笔记属性"
+            }
+          },
+          {
+            "id": "f01f68fa0aa73629",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "b8c18dd85816c3e8",
+  "lastOpenFiles": [
+    "生肉/对话/2026-05-04 0157 - DeepSeek.md",
+    "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
+    "生肉/对话/2026-05-04 0156 - DeepSeek.md",
+    "生肉/对话/2026-05-01 1934 - DeepSeek.md",
+    "生肉/对话/2026-04-30 0329 - DeepSeek.md",
+    "生肉/对话/2026-04-29 2007 - DeepSeek.md",
+    "熟肉/概念/Web Clipper.md",
+    "熟肉/概念/LLM Wiki.md",
+    "熟肉/概念/CLAUDE.md.md",
+    "熟肉/概念/知识编译.md",
+    "熟肉/实体/Obsidian.md",
+    "熟肉/实体/DeepSeek.md",
+    "熟肉/实体/Andrej Karpathy.md",
+    "熟肉/实体/Web Clipper.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "CLAUDE.md",
+    "index.md",
+    "log.md",
+    "熟肉/摘要/2026-04-29 - 从零搭建LLM Wiki知识库.md",
+    "生肉/对话/2026-04-29 1954 - DeepSeek.md",
+    "wiki-links.md",
+    "生肉/对话/2026-04-29T194923+0800 - DeepSeek.md",
+    "生肉/对话/2026-04-29T194902+0800 - DeepSeek.md",
+    "生肉/对话/2026-04-29T194703+0800 - DeepSeek.md",
+    "生肉/对话/2026-04-29T193653+0800 - DeepSeek.md",
+    "生肉/对话/DeepSeek.md",
+    "生肉/DeepSeek.md",
+    "Clippings",
+    "生肉/对话",
+    "熟肉/未命名 3",
+    "熟肉/产出",
+    "熟肉/综合",
+    "熟肉/实体",
+    "未命名",
+    "熟肉/概念",
+    "熟肉/摘要",
+    "熟肉"
+  ]
+}
