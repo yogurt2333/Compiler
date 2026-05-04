@@ -37,3 +37,6 @@
 ## [2026-05-04] update | 熟肉/实体/Obsidian.md — 补充 Git 插件和同步方案
 ## [2026-05-04] update | 熟肉/实体/DeepSeek.md — 补充 V4 Flash 模型信息
 ## [2026-05-04] update | index.md
+
+## [2026-05-05 03:19] ingest | 对话/2026-05-05 0319 - DeepSeek.md — 第1次AI学习课：aiohttp + pydantic 基础
+
