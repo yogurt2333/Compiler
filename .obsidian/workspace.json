@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44ba63a94388fb1a",
+        "id": "ce94f391d86801bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca285aea0fde6bd",
+            "id": "4dd245dfab519dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生肉/对话/2026-04-29 2007 - DeepSeek.md",
+                "file": "熟肉/摘要/2026-04-29 - 从零搭建LLM Wiki知识库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29 2007 - DeepSeek"
+              "title": "2026-04-29 - 从零搭建LLM Wiki知识库"
             }
           }
         ]
@@ -218,8 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ca285aea0fde6bd",
+  "active": "4dd245dfab519dff",
   "lastOpenFiles": [
+    "熟肉/产出/2026-05-04 - Hermes Agent web_search 修复.md",
+    "生肉/对话/2026-05-04 0156 - DeepSeek.md",
+    "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
+    "生肉/对话/2026-05-01 1934 - DeepSeek.md",
+    "生肉/对话/2026-05-04 0157 - DeepSeek.md",
+    "未命名.base",
+    "生肉/对话/2026-04-29 2007 - DeepSeek.md",
     "熟肉/实体/MemVerse.md",
     "熟肉/概念/Claude Code数据导出.md",
     "熟肉/概念/跨AI数据打通.md",
@@ -239,15 +246,8 @@
     "熟肉/摘要/2026-04-30 - 知识库搭建完成总结.md",
     "熟肉/摘要/2026-04-29 - 从零搭建LLM Wiki知识库.md",
     "生肉/对话/2026-05-04 0246 - DeepSeek.md",
-    "生肉/对话/2026-05-04 0157 - DeepSeek 1.md",
     "熟肉/概念/CLAUDE.md.md",
     "熟肉/概念/知识编译.md",
-    "熟肉/产出/2026-05-04 - Hermes Agent web_search 修复.md",
-    "生肉/对话/2026-05-04 0157 - DeepSeek.md",
-    "熟肉/概念/Hermes Agent.md",
-    "未命名.base",
-    "生肉/对话/2026-05-04 0156 - DeepSeek.md",
-    "生肉/对话/2026-05-01 1934 - DeepSeek.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Clippings",
