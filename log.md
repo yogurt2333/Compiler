@@ -40,3 +40,6 @@
 
 ## [2026-05-05 03:19] ingest | 对话/2026-05-05 0319 - DeepSeek.md — 第1次AI学习课：aiohttp + pydantic 基础
 
+## [2026-05-06] create | 熟肉/概念/async await 并发.md — asyncio.gather + Semaphore 限流
+## [2026-05-06] update | index.md
+## [2026-05-06] create | 熟肉/产出/前端场景题每日一练.md — Day 1 记录：打字卡顿问题分析

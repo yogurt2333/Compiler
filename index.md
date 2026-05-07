@@ -18,6 +18,7 @@
 - [[ClawBot]] — Hermes 的官方微信网关通道
 - [[Hermes 记忆系统]] — 热记忆/冷记忆/技能记忆/外部存储四层架构
 - [[AI 记忆中枢]] — 跨 AI 工具的统一记忆层架构构想
+- [[async await 并发]] — asyncio.gather 并发调 API + Semaphore 限流
 - [[跨AI数据打通]] — Claude Code / Hermes / Obsidian 三端数据管道方案
 - [[Claude Code数据导出]] — JSONL → Markdown 导出工具和方法
 - [[Obsidian Git 插件]] — 自动 commit/push 到 GitHub
@@ -35,4 +36,5 @@
 （暂无）
 
 ## 产出
+- [[产出/前端场景题每日一练]] — 前端场景题面试训练系列（三段论）
 - [[产出/2026-05-04 - Hermes Agent web_search 修复]] — Hermes Agent .env 不自动加载导致的联网搜索不可用问题和修复
