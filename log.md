@@ -43,3 +43,4 @@
 ## [2026-05-06] create | 熟肉/概念/async await 并发.md — asyncio.gather + Semaphore 限流
 ## [2026-05-06] update | index.md
 ## [2026-05-06] create | 熟肉/产出/前端场景题每日一练.md — Day 1 记录：打字卡顿问题分析
+## [2026-05-07 14:40] update | 熟肉/产出/前端场景题每日一练.md (Day 2 完成)
