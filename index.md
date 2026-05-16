@@ -20,6 +20,10 @@
 - [[AI 记忆中枢]] — 跨 AI 工具的统一记忆层架构构想
 - [[async await 并发]] — asyncio.gather 并发调 API + Semaphore 限流
 - [[LLM API 调用三技巧]] — System Prompt / Few-shot / Structured Output（从软到硬的三种输出控制手段）
+- [[Transformer]] — Transformer 架构：Attention / QKV / 多头注意力
+- [[QKV]] — Query / Key / Value 三件套详解
+- [[Attention]] — 注意力机制：让模型学会在哪个词上用力
+- [[Hallucination]] — 幻觉四大变体 + 统一解决方案（RAG / 结构化输出 / 温度控制）
 - [[跨AI数据打通]] — Claude Code / Hermes / Obsidian 三端数据管道方案
 - [[Claude Code数据导出]] — JSONL → Markdown 导出工具和方法
 - [[Obsidian Git 插件]] — 自动 commit/push 到 GitHub

@@ -47,6 +47,13 @@
 ## [2026-05-04] update | index.md
 
 ## [2026-05-05 03:19] ingest | 对话/2026-05-05 0319 - DeepSeek.md — 第1次AI学习课：aiohttp + pydantic 基础
+## [2026-05-17 05:00] create | 熟肉/概念/Transformer.md — Transformer 架构核心
+## [2026-05-17 05:00] create | 熟肉/概念/QKV.md — Query/Key/Value 三件套
+## [2026-05-17 05:00] create | 熟肉/概念/Attention.md — 注意力机制
+## [2026-05-17 05:00] create | 熟肉/概念/Hallucination.md — 幻觉四大变体 + 统一解法
+## [2026-05-17 05:00] create | 熟肉/摘要/2026-05-17 - AI×Web3 School 预习.md
+## [2026-05-17 05:00] create | daily/2026-05-17.md — 深夜学习 + Git API Key 修复
+## [2026-05-17 05:00] update | 熟肉/产出/前端场景题每日一练.md — Day 6 待补
 
 ## [2026-05-06] create | 熟肉/概念/async await 并发.md — asyncio.gather + Semaphore 限流
 ## [2026-05-06] update | index.md
