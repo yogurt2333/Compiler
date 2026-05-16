@@ -19,6 +19,7 @@
 - [[Hermes 记忆系统]] — 热记忆/冷记忆/技能记忆/外部存储四层架构
 - [[AI 记忆中枢]] — 跨 AI 工具的统一记忆层架构构想
 - [[async await 并发]] — asyncio.gather 并发调 API + Semaphore 限流
+- [[LLM API 调用三技巧]] — System Prompt / Few-shot / Structured Output（从软到硬的三种输出控制手段）
 - [[跨AI数据打通]] — Claude Code / Hermes / Obsidian 三端数据管道方案
 - [[Claude Code数据导出]] — JSONL → Markdown 导出工具和方法
 - [[Obsidian Git 插件]] — 自动 commit/push 到 GitHub
