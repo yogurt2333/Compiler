@@ -11,14 +11,14 @@
             "id": "4dd245dfab519dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "生肉/对话/2026-05-18 1921 - Web3 Career Build.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-05-18 1921 - Web3 Career Build"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -218,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd13bb979c504b31",
+  "active": "4dd245dfab519dff",
   "lastOpenFiles": [
     "生肉/对话/2026-05-18 1921 - Web3 Career Build.md",
     "熟肉/概念/知识编译.md",
