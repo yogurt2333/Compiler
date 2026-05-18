@@ -28,8 +28,6 @@
 ## [2026-05-04] create | 熟肉/摘要/2026-05-04 - 三端数据打通方案.md
 ## [2026-05-04] create | 熟肉/概念/跨AI数据打通.md
 ## [2026-05-04] create | 熟肉/概念/Claude Code数据导出.md
-<<<<<<< HEAD
-=======
 
 ## [2026-05-06] create | 熟肉/概念/async await 并发.md
 ## [2026-05-06] update | index.md
@@ -38,7 +36,6 @@
 ## [2026-05-11] create | 熟肉/摘要/2026-05-11 - LLM API 深入第2周.md
 ## [2026-05-11] update | index.md
 ## [2026-05-11] update | daily/2026-05-11.md
->>>>>>> 760d642eb65520255f4a115c912c2479d3777fc8
 ## [2026-05-04] create | 熟肉/实体/MemVerse.md
 ## [2026-05-04] create | 熟肉/摘要/2026-05-04 - Hermes 记忆系统架构.md
 ## [2026-05-04] create | 熟肉/概念/Hermes 记忆系统.md
@@ -50,9 +47,7 @@
 ## [2026-05-04] update | index.md
 
 ## [2026-05-05 03:19] ingest | 对话/2026-05-05 0319 - DeepSeek.md — 第1次AI学习课：aiohttp + pydantic 基础
-<<<<<<< HEAD
 
-=======
 ## [2026-05-17 05:00] create | 熟肉/概念/Transformer.md — Transformer 架构核心
 ## [2026-05-17 05:00] create | 熟肉/概念/QKV.md — Query/Key/Value 三件套
 ## [2026-05-17 05:00] create | 熟肉/概念/Attention.md — 注意力机制
@@ -71,4 +66,3 @@
 ## [2026-05-14 05:00] create | daily/2026-05-14.md (凌晨回顾 — 休息日，无学习活动)
 ## [2026-05-15 05:01] create | daily/2026-05-15.md (凌晨回顾 — 第二晚休息，Day 5&6 待答)
 ## [2026-05-16 14:30] cron | daily/2026-05-16.md (14:30 cron — 第三晚无互动，Day 5&6 仍在等待)
->>>>>>> 760d642eb65520255f4a115c912c2479d3777fc8
